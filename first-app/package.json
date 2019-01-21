@@ -1,0 +1,26 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "description": "first demo app built while learning electron.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdithyaBhat17/learning-electron.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "Adithya NR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdithyaBhat17/learning-electron/issues"
+  },
+  "homepage": "https://github.com/AdithyaBhat17/learning-electron#readme",
+  "devDependencies": {
+    "electron": "^4.0.1"
+  }
+}
