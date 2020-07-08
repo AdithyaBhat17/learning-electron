@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/AdithyaBhat17/learning-electron#readme",
   "devDependencies": {
-    "electron": "^4.0.1"
+    "electron": "^9.1.0"
   }
 }
